@@ -2,13 +2,16 @@ html {
     font-size: 20px;
 }
 
+h1 {
+    font-size: 2rem;
+}
+
 body {
     font-family: "Arial", "Meiryo", sans-serif;
     text-align: center;
 }
 
 .google-fonts {
-    font-size: 40px;
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
